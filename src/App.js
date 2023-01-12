@@ -1,10 +1,9 @@
-
 function App() {
   return (
-		<label htmlFor="checkbox">
-			<input id='checkbox' type="checkbox"/>
-			<div className="check"></div>
-		</label>
+    <label htmlFor="checkbox">
+      <input id="checkbox" type="checkbox" />
+      <div className="check"></div>
+    </label>
   );
 }
 
